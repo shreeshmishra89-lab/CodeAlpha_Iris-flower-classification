@@ -28,6 +28,6 @@ A Decision Tree Classifier was used to train the model and predict flower specie
 The model achieved excellent accuracy on the test dataset.
 
 ## 👨‍💻 Author
-**Lakshya Mishra**
+**Shreesh Mishra**
 
 **CodeAlpha Data Science Intern**
